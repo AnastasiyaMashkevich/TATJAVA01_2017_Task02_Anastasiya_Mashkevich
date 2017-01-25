@@ -1,0 +1,10 @@
+clothes,glove,25,5
+footwear,boots,16,7
+clothes,goggles,18,13
+clothes,swimming suit,13,5
+footwear,hiking boots,26,10
+footwear,skates,30,15
+footwear,tennis shoes,50,6
+Equipment,tennis racket,12,36
+Equipment,bicycle,45,10
+Equipment,golf ball,50,35
